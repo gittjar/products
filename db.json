@@ -83,12 +83,88 @@
    "category":"pizzas",
    "image":"https://via.placeholder.com/150"
   },
-  
   {"id": 13,
    "title": "pasta carbonara",
    "price": 16.80,
    "description":"Pennepasta, kinkkua ja kerma",
    "category":"pastas",
    "image":"https://via.placeholder.com/150"
-  }
+  },
+  {"id": 14,
+   "title": "pasta carbonara14",
+   "price": 16.80,
+   "description":"Pennepasta, kinkkua ja kerma",
+   "category":"pastas",
+   "image":"https://via.placeholder.com/150"
+  },  
+  {"id": 15,
+   "title": "pasta carbonara15",
+   "price": 16.80,
+   "description":"Pennepasta, kinkkua ja kerma",
+   "category":"pastas",
+   "image":"https://via.placeholder.com/150"
+  },
+    {"id": 16,
+   "title": "pasta carbonara16",
+   "price": 16.80,
+   "description":"Pennepasta, kinkkua ja kerma",
+   "category":"pastas",
+   "image":"https://via.placeholder.com/150"
+  },
+    {"id": 17,
+   "title": "pasta carbonara17",
+   "price": 16.80,
+   "description":"Pennepasta, kinkkua ja kerma",
+   "category":"pastas",
+   "image":"https://via.placeholder.com/150"
+  },
+    {"id": 18,
+   "title": "pasta carbonara18",
+   "price": 16.80,
+   "description":"Pennepasta, kinkkua ja kerma",
+   "category":"pastas",
+   "image":"https://via.placeholder.com/150"
+  },
+    {"id": 19,
+   "title": "pasta carbonara19",
+   "price": 16.80,
+   "description":"Pennepasta, kinkkua ja kerma",
+   "category":"pastas",
+   "image":"https://via.placeholder.com/150"
+  },
+    {"id": 20,
+   "title": "pasta carbonara20",
+   "price": 16.80,
+   "description":"Pennepasta, kinkkua ja kerma",
+   "category":"pastas",
+   "image":"https://via.placeholder.com/150"
+  },
+    {"id": 21,
+   "title": "pasta carbonara21",
+   "price": 16.80,
+   "description":"Pennepasta, kinkkua ja kerma",
+   "category":"pastas",
+   "image":"https://via.placeholder.com/150"
+  },
+    {"id": 22,
+   "title": "Double Cheeseburger",
+   "price": 11.00,
+   "description":"Kaksi pihviä a 80g ja mausteet",
+   "category":"burgers",
+   "image":"https://via.placeholder.com/150"
+  },
+    {"id": 23,
+   "title": "Bacon Burger",
+   "price": 12.20,
+   "description":"Pihviä, pekonia ja mausteet",
+   "category":"burgers",
+   "image":"https://via.placeholder.com/150"
+  },
+    {"id": 24,
+   "title": "New York Burger",
+   "price": 16.80,
+   "description":"Pihviä, N.Y. sauce ja mausteet",
+   "category":"burgers",
+   "image":"https://via.placeholder.com/150"
+  } 
 ]
