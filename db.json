@@ -146,24 +146,24 @@
    "category":"pastas",
    "image":"https://via.placeholder.com/150"
   },
-    {"id": 22,
-   "title": "Double Cheeseburger",
-   "price": 11.00,
-   "description":"Kaksi pihviä a 80g ja mausteet",
+   {"id": 22,
+   "title": "Cheeseburger",
+   "price": 9.25,
+   "description":"Briossisämpylä, kotimainen naudanlihapihvi 130g, suolakurkku, cheddarjuusto, Heinz -majo ja Heinz -ketsuppi",
    "category":"burgers",
-   "image":"https://via.placeholder.com/150"
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/double-cheese.jpg%20%281%29.jpg/_full.jpg"
   },
     {"id": 23,
    "title": "Bacon Burger",
    "price": 12.20,
-   "description":"Pihviä, pekonia ja mausteet",
+   "description": "Briossisämpylä, kotimainen naudanlihapihvi 180g, BBQ-kastike, Heinz -ketsuppi, pikkelöity punasipuli ja pekonia",
    "category":"burgers",
    "image":"https://via.placeholder.com/150"
   },
     {"id": 24,
    "title": "New York Burger",
    "price": 16.80,
-   "description":"Pihviä, N.Y. sauce ja mausteet",
+   "description":"Briossisämpylä, kotimainen naudanlihapihvi 180g, N.Y. -specialkastike (salainen resepti), pikkelöity punasipuli ja MontreyJack -juusto",
    "category":"burgers",
    "image":"https://via.placeholder.com/150"
   } 
