@@ -1,10 +1,10 @@
 [
   {"id": 22,
-   "title": "Double Cheeseburger",
-   "price": 11.00,
-   "description":"pihvi a 80g x 2, cheddarjuusto ja Heinz -ketsuppi",
+   "title": "Cheeseburger",
+   "price": 9.25,
+   "description":"pihvi 130q, cheddarjuusto ja Heinz -ketsuppi",
    "category":"burgers",
-   "image":"https://via.placeholder.com/150"
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/double-cheese.jpg.jpg/_full.jpg"
   },
     {"id": 23,
    "title": "Bacon Burger",
