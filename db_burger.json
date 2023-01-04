@@ -2,40 +2,21 @@
   {"id": 22,
    "title": "Double Cheeseburger",
    "price": 11.00,
-   "description":
-    						  [
-										{ "id": "1001", "type": "Pihvi x 80g" },
-										{ "id": "1002", "type": "Cheddarjuusto" },
-										{ "id": "1003", "type": "Suolakurkku" },
-										{ "id": "1004", "type": "Heinz ketchup" }
-						  ],
+   "description":"pihvi a 80g x 2, cheddarjuusto ja Heinz -ketsuppi",
    "category":"burgers",
    "image":"https://via.placeholder.com/150"
   },
     {"id": 23,
    "title": "Bacon Burger",
    "price": 12.20,
-   "description":
-    						  [
-							{ "id": "1005", "type": "Pihvi 180g" },
-							{ "id": "1006", "type": "Pekonia" },
-							{ "id": "1007", "type": "Punasipulia" },
-							{ "id": "1004", "type": "Heinz ketchup" }
-						],
+   "description": "pihvi 180g, BBQ-kastike ja pekonia",
    "category":"burgers",
    "image":"https://via.placeholder.com/150"
   },
     {"id": 24,
    "title": "New York Burger",
    "price": 16.80,
-      "description":
-    						  [
-							{ "id": "1005", "type": "Pihvi 180g" },
-							{ "id": "1008", "type": "N.Y. kastike" },
-							{ "id": "1009", "type": "Montrey Jack -juusto" },
-							{ "id": "1004", "type": "Heinz ketchup" },
-							{ "id": "1010", "type": "Suolakurkkua" }
-						],
+      "description":"pihvi 180g, N.Y. kastike ja MontreyJack -juusto",
    "category":"burgers",
    "image":"https://via.placeholder.com/150"
   } 
