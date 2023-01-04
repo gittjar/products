@@ -1,86 +1,86 @@
 [
   {"id": 1,
-   "title": "margarita",
+   "title": "Margarita",
    "price": 12.40,
-   "description":"Tomaattikastike, jauheliha ja juusto",
+   "description":"jauheliha",
    "category":"pizzas",
-   "image":"https://via.placeholder.com/150"
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/mexicana-pizza.jpg/_full.jpg"
   },
   {"id": 2,
-   "title": "mexicana",
+   "title": "Mexicana",
    "price": 12.40,
-   "description":"Tomaattikastike, jalapeno, pepperoni ja juusto",
+   "description":"jalapeno, pepperoni ja ananas",
    "category":"pizzas",
-   "image":"https://via.placeholder.com/150"
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/mexicana-pizza.jpg/_full.jpg"
   },
     {"id": 3,
-   "title": "mexicana3",
+   "title": "Quatro Stagioni",
    "price": 12.40,
-   "description":"Tomaattikastike, jalapeno, pepperoni ja juusto",
+   "description":"sieni, katkarapu, tonnikala ja pepperoni",
    "category":"pizzas",
-   "image":"https://via.placeholder.com/150"
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/mexicana-pizza.jpg/_full.jpg"
   },
     {"id": 4,
-   "title": "mexicana4",
+   "title": "Dillinger",
    "price": 12.40,
-   "description":"Tomaattikastike, jalapeno, pepperoni ja juusto",
+   "description":"salami, pepperoni ja hot sauce",
    "category":"pizzas",
-   "image":"https://via.placeholder.com/150"
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/mexicana-pizza.jpg/_full.jpg"
   },
     {"id": 5,
-   "title": "mexicana5",
+   "title": "Kebab Flame",
    "price": 12.40,
-   "description":"Tomaattikastike, jalapeno, pepperoni ja juusto",
+   "description":"kebab, ananas ja jalapeno",
    "category":"pizzas",
-   "image":"https://via.placeholder.com/150"
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/mexicana-pizza.jpg/_full.jpg"
   },
     {"id": 6,
-   "title": "mexicana6",
+   "title": "Napoli",
    "price": 12.40,
-   "description":"Tomaattikastike, jalapeno, pepperoni ja juusto",
+   "description":"katkarapu, jauheliha ja pepperoni",
    "category":"pizzas",
-   "image":"https://via.placeholder.com/150"
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/mexicana-pizza.jpg/_full.jpg"
   },
     {"id": 7,
-   "title": "mexicana7",
+   "title": "Sicilia Hot",
    "price": 12.40,
-   "description":"Tomaattikastike, jalapeno, pepperoni ja juusto",
+   "description":"hot salami, sieni, capris ja chili",
    "category":"pizzas",
-   "image":"https://via.placeholder.com/150"
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/mexicana-pizza.jpg/_full.jpg"
   },
     {"id": 8,
-   "title": "mexicana8",
+   "title": "Hawaii",
    "price": 12.40,
-   "description":"Tomaattikastike, jalapeno, pepperoni ja juusto",
+   "description":"ananas ja kinkku",
    "category":"pizzas",
-   "image":"https://via.placeholder.com/150"
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/mexicana-pizza.jpg/_full.jpg"
   },
     {"id": 9,
-   "title": "mexicana9",
+   "title": "Americano",
    "price": 12.40,
-   "description":"Tomaattikastike, jalapeno, pepperoni ja juusto",
+   "description":"ananas, kinkku ja aurajuusto",
    "category":"pizzas",
-   "image":"https://via.placeholder.com/150"
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/mexicana-pizza.jpg/_full.jpg"
   },
     {"id": 10,
-   "title": "mexicana10",
+   "title": "Frutti di Mare",
    "price": 12.40,
-   "description":"Tomaattikastike, jalapeno, pepperoni ja juusto",
+   "description":"tonnikala, katkarapu ja makrilli",
    "category":"pizzas",
-   "image":"https://via.placeholder.com/150"
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/mexicana-pizza.jpg/_full.jpg"
   },
     {"id": 11,
-   "title": "mexicana11",
+   "title": "Porgå",
    "price": 12.40,
-   "description":"Tomaattikastike, jalapeno, pepperoni ja juusto",
+   "description":"kebab, ranskalaiset perunat, pepperoni ja paprika",
    "category":"pizzas",
-   "image":"https://via.placeholder.com/150"
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/mexicana-pizza.jpg/_full.jpg"
   },
     {"id": 12,
-   "title": "mexicana12",
+   "title": "Master Chef",
    "price": 12.40,
-   "description":"Tomaattikastike, jalapeno, pepperoni ja juusto",
+   "description":"random 5 täytettä!",
    "category":"pizzas",
-   "image":"https://via.placeholder.com/150"
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/mexicana-pizza.jpg/_full.jpg"
   }
  ]
