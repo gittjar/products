@@ -8,7 +8,7 @@
 										{ "id": "1002", "type": "Cheddarjuusto" },
 										{ "id": "1003", "type": "Suolakurkku" },
 										{ "id": "1004", "type": "Heinz ketchup" }
-									],
+						  ],
    "category":"burgers",
    "image":"https://via.placeholder.com/150"
   },
@@ -17,18 +17,25 @@
    "price": 12.20,
    "description":
     						  [
-										{ "id": "1005", "type": "Pihvi 180g" },
-										{ "id": "1006", "type": "Pekonia" },
-										{ "id": "1007", "type": "Punasipulia" },
-										{ "id": "1004", "type": "Heinz ketchup" }
-									],
+							{ "id": "1005", "type": "Pihvi 180g" },
+							{ "id": "1006", "type": "Pekonia" },
+							{ "id": "1007", "type": "Punasipulia" },
+							{ "id": "1004", "type": "Heinz ketchup" }
+						],
    "category":"burgers",
    "image":"https://via.placeholder.com/150"
   },
     {"id": 24,
    "title": "New York Burger",
    "price": 16.80,
-   "description":"Pihviä, N.Y. sauce ja mausteet",
+      "description":
+    						  [
+							{ "id": "1005", "type": "Pihvi 180g" },
+							{ "id": "1008", "type": "N.Y. kastike" },
+							{ "id": "1009", "type": "Montrey Jack -juusto" },
+							{ "id": "1004", "type": "Heinz ketchup" },
+							{ "id": "1010", "type": "Suolakurkkua" }
+						],
    "category":"burgers",
    "image":"https://via.placeholder.com/150"
   } 
