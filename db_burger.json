@@ -4,7 +4,7 @@
    "price": 9.25,
    "description":"pihvi 130q, cheddarjuusto ja Heinz -ketsuppi",
    "category":"burgers",
-   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/double-cheese.jpg.jpg/_full.jpg"
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/double-cheese.jpg%20%281%29.jpg/_full.jpg"
   },
     {"id": 23,
    "title": "Bacon Burger",
