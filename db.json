@@ -88,7 +88,7 @@
    "price": 9.25,
    "description":"Briossisämpylä, kotimainen naudanlihapihvi 130g, suolakurkku, cheddarjuusto, Heinz -majo ja Heinz -ketsuppi",
    "category":"burgers",
-   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/double-cheese.jpg%20%281%29.jpg/_full.jpg"
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/double-cheese.jpg.jpg?img=full"
   },
     {"id": 23,
    "title": "Bacon Burger",
@@ -102,7 +102,7 @@
    "price": 16.80,
    "description":"Briossisämpylä, kotimainen naudanlihapihvi 180g, N.Y. -specialkastike (salainen resepti), pikkelöity punasipuli ja MontreyJack -juusto",
    "category":"burgers",
-   "image":"https://via.placeholder.com/150"
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/newyorkburger.jpg?img=full"
   },
       {"id": 25,
    "title": "Coleslaw -salaatti",
@@ -137,21 +137,21 @@
    "price": 2.50,
    "description":"330cl tölkki",
    "category":"drinks",
-   "image":""
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/pepsimax.jpg?img=full"
       },
           {"id": 30,
    "title": "Estrella Zero",
    "price": 4.20,
    "description":"Zero Alc Estrella olut",
    "category":"drinks",
-   "image":""
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/estrella.jpg?img=full"
       },
           {"id": 31,
-   "title": "Italialainen olut",
+   "title": "Birra Moretti Zero",
    "price": 4.20,
    "description":"Zero Alc olut",
    "category":"drinks",
-   "image":""
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/estrella.jpg?img=full"
       }
   
 ]
