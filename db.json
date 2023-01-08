@@ -103,5 +103,26 @@
    "description":"Briossisämpylä, kotimainen naudanlihapihvi 180g, N.Y. -specialkastike (salainen resepti), pikkelöity punasipuli ja MontreyJack -juusto",
    "category":"burgers",
    "image":"https://via.placeholder.com/150"
-  } 
+  },
+      {"id": 25,
+   "title": "Coleslaw -salaatti",
+   "price": 3.20,
+   "description":"Perinteinen Coleslaw -salaatti joka sopii vaikkapa burgerin kylkeen",
+   "category":"sides and snacks",
+   "image":""
+  },
+      {"id": 26,
+   "title": "Ranskalaiset",
+   "price": 3.20,
+   "description":"Annos ranskalaisia perunoita, tarjoillaan majoneesidipin kera",
+   "category":"sides and snacks",
+   "image":""
+      },
+        {"id": 27,
+   "title": "Jalapeno ranskalaiset",
+   "price": 6.20,
+   "description":"Annos jalapeno ranskalaisia, tulinen lisä ateriaasi",
+   "category":"sides and snacks",
+   "image":""
+      }
 ]
