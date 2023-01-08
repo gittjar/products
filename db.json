@@ -124,5 +124,34 @@
    "description":"Annos jalapeno ranskalaisia, tulinen lisä ateriaasi",
    "category":"sides and snacks",
    "image":""
+      },
+          {"id": 28,
+   "title": "Coca-Cola Zero",
+   "price": 2.50,
+   "description":"330cl tölkki",
+   "category":"sides and snacks",
+   "image":""
+      },
+          {"id": 29,
+   "title": "Pepsi Max",
+   "price": 2.50,
+   "description":"330cl tölkki",
+   "category":"sides and snacks",
+   "image":""
+      },
+          {"id": 30,
+   "title": "Estrella Zero",
+   "price": 4.20,
+   "description":"Zero Alc Estrella olut",
+   "category":"sides and snacks",
+   "image":""
+      },
+          {"id": 31,
+   "title": "Italialainen olut",
+   "price": 4.20,
+   "description":"Zero Alc olut",
+   "category":"sides and snacks",
+   "image":""
       }
+  
 ]
