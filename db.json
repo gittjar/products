@@ -99,7 +99,7 @@
    "title": "Cheeseburger",
    "price": 9.25,
    "description":"Briossisämpylä, kotimainen naudanlihapihvi 130g, suolakurkku, cheddarjuusto, Heinz -majo ja Heinz -ketsuppi",
-    "information":"",
+    "information":"Itse tehty buni, jonka sisälle koottu parhaista raaka-aineista sisältävä burger, ota kylkeen juomaksi kylmä Cola.",
    "category":"burgers",
    "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/double-cheese.jpg.jpg?img=full"
   },
@@ -107,7 +107,7 @@
    "title": "Bacon Burger",
    "price": 12.20,
    "description": "Briossisämpylä, kotimainen naudanlihapihvi 180g, BBQ-kastike, Heinz -ketsuppi, pikkelöity punasipuli ja pekonia",
-     "information":"",
+     "information":"Muhkean makuinen burgeri, joka taltuttaa isommankin nälän. Tule, tilaa ja syö.",
    "category":"burgers",
    "image":"https://via.placeholder.com/150"
   },
@@ -115,31 +115,31 @@
    "title": "New York Burger",
    "price": 16.80,
    "description":"Briossisämpylä, kotimainen naudanlihapihvi 180g, N.Y. -specialkastike (salainen resepti), pikkelöity punasipuli ja MontreyJack -juusto",
-     "information":"",
+     "information":"East Coastin -tyyliin koottu burger, joka vie sinut hetkessä USA:n itärannikolle. Resepti on ideoitu paikan päällä!",
    "category":"burgers",
    "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/newyorkburger.jpg?img=full"
   },
       {"id": 25,
    "title": "Coleslaw -salaatti",
    "price": 3.20,
-   "description":"Perinteinen Coleslaw -salaatti joka sopii vaikkapa burgerin kylkeen",
-       "information":"",
+   "description":"majoneesi, kaali ja porkkanaraaste",
+       "information":"Perinteinen Coleslaw -salaatti joka sopii vaikkapa burgerin kylkeen.",
    "category":"sides and snacks",
    "image":""
   },
       {"id": 26,
    "title": "Ranskalaiset",
    "price": 3.20,
-   "description":"Annos ranskalaisia perunoita, tarjoillaan majoneesidipin kera",
-       "information":"",
+   "description":"ålannin ranskalaiset ja dippi",
+       "information":"Annos ranskalaisia perunoita, tarjoillaan majoneesidipin kera.",
    "category":"sides and snacks",
    "image":""
       },
         {"id": 27,
    "title": "Jalapeno ranskalaiset",
    "price": 6.20,
-   "description":"Annos jalapeno ranskalaisia, tulinen lisä ateriaasi",
-   "information":"",
+   "description":"jalapeno, ålannin ranskalaiset ja dippi",
+   "information":"Annos jalapenolla terästettyjä ranskalaisia, tulinen lisä ateriaasi.",
    "category":"sides and snacks",
    "image":""
       },
@@ -147,7 +147,7 @@
    "title": "Coca-Cola Zero",
    "price": 2.50,
    "description":"330cl tölkki",
-           "information":"",
+           "information":"Cokiksen 0 sokeri limu.",
    "category":"drinks",
    "image":""
       },
@@ -155,7 +155,7 @@
    "title": "Pepsi Max",
    "price": 2.50,
    "description":"330cl tölkki",
-           "information":"",
+           "information":"Pepsin 0 sokeri limu",
    "category":"drinks",
    "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/pepsimax.jpg?img=full"
       },
@@ -163,7 +163,7 @@
    "title": "Estrella Zero",
    "price": 4.20,
    "description":"Zero Alc Estrella olut",
-    "information":"",
+    "information":"Virkistävä Estrella oluen alkoholiton versio.",
    "category":"drinks",
    "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/estrella.jpg?img=full"
       },
@@ -171,7 +171,7 @@
    "title": "Birra Moretti Zero",
    "price": 4.40,
    "description":"Zero Alc olut",
-    "information":"",
+    "information":"Virkistävä Birra Morettin alkoholiton versio, tämä toimii meidän pizzojen kanssa paremmin kuin hyvin. Kokeile vaikka.",
    "category":"drinks",
    "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/moretti.jpg?img=full"
    }
