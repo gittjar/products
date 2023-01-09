@@ -1,15 +1,17 @@
  [  
-  {"id": 28,
+{"id": 28,
    "title": "Coca-Cola Zero",
    "price": 2.50,
    "description":"330cl tölkki",
+   "information":"Cokiksen 0 sokeri limu.",
    "category":"drinks",
    "image":""
       },
-   {"id": 29,
+          {"id": 29,
    "title": "Pepsi Max",
    "price": 2.50,
    "description":"330cl tölkki",
+   "information":"Pepsin 0 sokeri limu",
    "category":"drinks",
    "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/pepsimax.jpg?img=full"
       },
@@ -17,6 +19,7 @@
    "title": "Estrella Zero",
    "price": 4.20,
    "description":"Zero Alc Estrella olut",
+    "information":"Virkistävä Estrella oluen alkoholiton versio.",
    "category":"drinks",
    "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/estrella.jpg?img=full"
       },
@@ -24,6 +27,7 @@
    "title": "Birra Moretti Zero",
    "price": 4.40,
    "description":"Zero Alc olut",
+    "information":"Virkistävä Birra Morettin alkoholiton versio, tämä toimii meidän pizzojen kanssa paremmin kuin hyvin. Kokeile vaikka.",
    "category":"drinks",
    "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/moretti.jpg?img=full"
    }
