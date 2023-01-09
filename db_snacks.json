@@ -1,0 +1,26 @@
+[
+   {"id": 25,
+   "title": "Coleslaw -salaatti",
+   "price": 3.20,
+   "description":"majoneesi, kaali ja porkkanaraaste",
+       "information":"Perinteinen Coleslaw -salaatti joka sopii vaikkapa burgerin kylkeen.",
+   "category":"sides and snacks",
+   "image":""
+  },
+      {"id": 26,
+   "title": "Ranskalaiset",
+   "price": 3.20,
+   "description":"ålannin ranskalaiset ja dippi",
+       "information":"Annos ranskalaisia perunoita, tarjoillaan majoneesidipin kera.",
+   "category":"sides and snacks",
+   "image":""
+      },
+        {"id": 27,
+   "title": "Jalapeno ranskalaiset",
+   "price": 6.20,
+   "description":"jalapeno, ålannin ranskalaiset ja dippi",
+   "information":"Annos jalapenolla terästettyjä ranskalaisia, tulinen lisä ateriaasi.",
+   "category":"sides and snacks",
+   "image":""
+      }
+  ]
