@@ -1,8 +1,9 @@
 [
   {"id": 1,
-   "title": "Margarita",
-   "price": 12.40,
-   "description":"jauheliha",
+   "title": "Margherita",
+   "price": 11.90,
+   "description":"tomaatti, mozarella, basilika ja oliiviöljy",
+   "information":"Tyypillinen Neapolitan pizza, pizzan täytteiden värit kuvastavat Italian lippua. Tämä pizza on yksi meidän myydyimpiä tuotteita.",
    "category":"pizzas",
    "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/mexicana-pizza.jpg/_full.jpg"
   },
