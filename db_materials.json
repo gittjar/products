@@ -1,13 +1,24 @@
 [
-  {
+    {
     "id": 1001,
     "name": "jauheliha",
     "category": "meats",
-    "information": "kotimainen liha",
+    "information": "kotimainen jauheliha",
     "organic": true,
     "origincountry": "FIN",
     "image": "https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/jauheliha.jpg/_full.jpg"
-}
+    },
+    {
+    "id": 1002,
+    "name": "pekoni",
+    "category": "meats",
+    "information": "kotimainen pekoni, kypsytetty puugrillillä",
+    "organic": true,
+    "origincountry": "FIN",
+    "image": "https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/bacon.jpg.jpg/_full.jpg"
+    }
   
   
   ]
+
+
