@@ -16,6 +16,15 @@
     "organic": true,
     "origincountry": "FIN",
     "image": "https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/bacon.jpg.jpg/_full.jpg"
+    },
+        {
+    "id": 1003,
+    "name": "kinkku",
+    "category": "meats",
+    "information": "kotimainen kinkku, valmistaja Atria",
+    "organic": true,
+    "origincountry": "FIN",
+    "image": ""
     }
   
   
