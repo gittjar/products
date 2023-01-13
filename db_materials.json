@@ -2,8 +2,8 @@
     {
     "id": 1001,
     "name": "jauheliha",
-    "category": "meats",
-    "information": "kotimainen jauheliha",
+    "category": "lihat",
+    "information": "Kotimainen luomujauheliha, Bosgårdin tilalta Porvoosta.",
     "organic": true,
     "origincountry": "FIN",
     "image": "https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/jauheliha.jpg/_full.jpg"
@@ -11,21 +11,39 @@
     {
     "id": 1002,
     "name": "pekoni",
-    "category": "meats",
-    "information": "kotimainen pekoni, kypsytetty puugrillillä",
+    "category": "lihat",
+    "information": "Kotimainen luomupekoni, kypsytetty puugrillillä.",
     "organic": true,
     "origincountry": "FIN",
     "image": "https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/bacon.jpg.jpg/_full.jpg"
     },
-        {
+     {
     "id": 1003,
     "name": "kinkku",
-    "category": "meats",
-    "information": "kotimainen kinkku, valmistaja Atria",
+    "category": "lihat",
+    "information": "Kotimainen luomukinkku, valmistaja Atria/HK.",
     "organic": true,
     "origincountry": "FIN",
     "image": ""
-    }
+    },
+     {
+    "id": 1004,
+    "name": "ranskalainen peruna",
+    "category": "kasvikset",
+    "information": "Kotimainen peruna, viljelyalue Varsinais-Suomi.",
+    "organic": true,
+    "origincountry": "FIN",
+    "image": ""
+    },
+     "id": 1005,
+    "name": "ketsuppi",
+    "category": "kastikkeet",
+    "information": "Luomuketsuppi kotimaisista tomaateista, valmistaja Felix/Herkkumaa",
+    "organic": true,
+    "origincountry": "FIN",
+    "image": ""
+    },
+    
   
   
   ]
