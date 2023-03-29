@@ -95,13 +95,13 @@
    "category":"pizzas",
    "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/mexicana-pizza.jpg/_full.jpg"
   },
-   {"id": 22,
+  {"id": 22,
    "title": "Cheeseburger",
    "price": 9.25,
    "description":"Briossisämpylä, kotimainen naudanlihapihvi 130g, suolakurkku, cheddarjuusto, Heinz -majo ja Heinz -ketsuppi",
     "information":"Itse tehty buni, jonka sisälle koottu parhaista raaka-aineista sisältävä burger, ota kylkeen juomaksi kylmä Cola.",
    "category":"burgers",
-   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/double-cheese.jpg.jpg?img=full"
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/burger003.jpg?img=smaller"
   },
     {"id": 23,
    "title": "Bacon Burger",
@@ -109,7 +109,7 @@
    "description": "Briossisämpylä, kotimainen naudanlihapihvi 180g, BBQ-kastike, Heinz -ketsuppi, pikkelöity punasipuli ja pekonia",
      "information":"Muhkean makuinen burgeri, joka taltuttaa isommankin nälän. Tule, tilaa ja syö.",
    "category":"burgers",
-   "image":"https://via.placeholder.com/150"
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/burger001%20%281%29.jpg?img=smaller"
   },
     {"id": 24,
    "title": "New York Burger",
@@ -117,9 +117,9 @@
    "description":"Briossisämpylä, kotimainen naudanlihapihvi 180g, N.Y. -specialkastike (salainen resepti), pikkelöity punasipuli ja MontreyJack -juusto",
      "information":"East Coastin -tyyliin koottu burger, joka vie sinut hetkessä USA:n itärannikolle. Resepti on ideoitu paikan päällä!",
    "category":"burgers",
-   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/newyorkburger.jpg?img=full"
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/burger002.jpg?img=smaller"
   },
-      {"id": 25,
+  {"id": 25,
    "title": "Coleslaw -salaatti",
    "price": 3.20,
    "description":"majoneesi, kaali ja porkkanaraaste",
