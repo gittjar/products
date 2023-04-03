@@ -5,7 +5,7 @@
    "description":"majoneesi, kaali ja porkkanaraaste",
        "information":"Perinteinen Coleslaw -salaatti joka sopii vaikkapa burgerin kylkeen.",
    "category":"sides and snacks",
-   "image":""
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/salad.jpg?img=full"
   },
       {"id": 26,
    "title": "Ranskalaiset",
@@ -13,7 +13,7 @@
    "description":"ålannin ranskalaiset ja dippi",
        "information":"Annos ranskalaisia perunoita, tarjoillaan majoneesidipin kera.",
    "category":"sides and snacks",
-   "image":""
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/ranskalaiset.jpg?img=full"
       },
         {"id": 27,
    "title": "Jalapeno ranskalaiset",
@@ -21,6 +21,6 @@
    "description":"jalapeno, ålannin ranskalaiset ja dippi",
    "information":"Annos jalapenolla terästettyjä ranskalaisia, tulinen lisä ateriaasi.",
    "category":"sides and snacks",
-   "image":""
+   "image":"https://digital.pictures.fi/kuvat/pizzatilaus-pic-db/jalapenos.jpg?img=full"
       }
   ]
